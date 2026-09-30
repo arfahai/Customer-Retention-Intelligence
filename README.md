@@ -438,4 +438,10 @@ notebooks/analysis_final.ipynb
 ```
 
 The notebook should be read alongside this README when reviewing or studying the project methodology.
+---
+
+## 20. Live Demo
+
+**Streamlit Dashboard:**  
+https://arfahai-customer-retention-intelligence-app-b3fsgt.streamlit.app/
 
