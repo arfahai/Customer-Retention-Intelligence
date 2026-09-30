@@ -1,0 +1,1 @@
+Run `python -m src.clv` and then `python -m src.score_customers` to create value-aware customer_scores.csv.

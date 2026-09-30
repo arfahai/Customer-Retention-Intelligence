@@ -1,0 +1,20 @@
+{
+  "target": "NoPurchaseNext180Days",
+  "features": [
+    "RecencyDays",
+    "PurchaseOrderCount",
+    "AvgOrderValue",
+    "TenureDays",
+    "MedianPurchaseGap",
+    "SinglePurchaseHistory",
+    "CancellationOrderCount",
+    "CancellationRate",
+    "CancellationValueRatio"
+  ],
+  "log1p_features": [
+    "PurchaseOrderCount",
+    "AvgOrderValue"
+  ],
+  "production_refit": "train+validation only",
+  "final_test_excluded": true
+}
